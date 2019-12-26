@@ -1,4 +1,4 @@
-from exercicios_padawan.blackjack_21.classes.baralho import Baralho
+from Python.exercicios_padawan.blackjack_21.classes.baralho import Baralho
 
 
 class BlackJack(Baralho):

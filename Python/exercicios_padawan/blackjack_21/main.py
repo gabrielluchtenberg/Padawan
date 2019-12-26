@@ -1,6 +1,6 @@
 import random
-from exercicios_padawan.blackjack_21.classes.blackjack21 import *
-from exercicios_padawan.blackjack_21.services.somethings import *
+from Python.exercicios_padawan.blackjack_21.classes.blackjack21 import *
+from Python.exercicios_padawan.blackjack_21.services.somethings import *
 
 black_jack = BlackJack()
 

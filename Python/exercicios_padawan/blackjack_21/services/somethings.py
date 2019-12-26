@@ -1,6 +1,6 @@
 def proxima():
     while True:
-        choose = input("Quer virar mais uma carta? (S/N) ").upper()
+        choose = input("Quer virar mais uma carta? (S/N): \n").upper()
         if choose == 'S':
             return True
         elif choose == 'N':
