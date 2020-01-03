@@ -1,3 +1,13 @@
-from Python.exercicios_padawan.passwordmeter.services.lobby_service import *
+from classes.view import *
 
-menu_password_meter()
+booleano = None
+while booleano != True:
+    senha = pedir_senha()
+    booleano = numero_carateres(senha)
+
+
+maiusculos(senha)
+minusculas(senha)
+numbers(senha)
+symbol(senha)
+numero_carateres(senha)
