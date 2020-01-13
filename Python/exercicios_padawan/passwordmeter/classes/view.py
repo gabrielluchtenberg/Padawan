@@ -41,4 +41,4 @@ def symbol(senha):
     for i in senha:
         if not i.isalnum():
             sym += 1
-    print(f'Simbolos: {sym}\n\nSua senha: {senha}')
+    print(f'Simbolos: {sym}\n')
